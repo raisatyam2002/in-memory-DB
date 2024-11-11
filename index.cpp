@@ -58,5 +58,7 @@ void runCli(){
 
 int main(){
    runCli();
+   cout << "Program exiting..." << endl;
+
     return 0;
 }
